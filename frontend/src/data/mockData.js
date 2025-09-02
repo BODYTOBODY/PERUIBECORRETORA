@@ -86,11 +86,11 @@ export const aboutData = {
 };
 
 export const contactData = {
-  phone: "(13) 3455-1234",
-  whatsapp: "(13) 99999-1234",
-  email: "contato@peruibecorretora.com.br",
-  address: "Rua das Flores, 123 - Centro, Peruíbe - SP",
-  workingHours: "Segunda a Sexta: 8h às 18h | Sábado: 8h às 12h",
+  phone: "(13) 3458-2100",
+  whatsapp: "(13) 98765-4321",
+  email: "atendimento@peruibecorretora.com.br",
+  address: "Av. Padre Anchieta, 456 - Centro, Peruíbe - SP, 11750-000",
+  workingHours: "Segunda a Sexta: 8h30 às 17h30 | Sábado: 8h às 12h",
   socialMedia: {
     facebook: "https://facebook.com/peruibecorretora",
     instagram: "https://instagram.com/peruibecorretora",
