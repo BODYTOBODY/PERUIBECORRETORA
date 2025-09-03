@@ -78,10 +78,10 @@ export const aboutData = {
     "Ética e responsabilidade profissional"
   ],
   stats: [
-    { number: "15+", label: "Anos de Experiência" },
-    { number: "5.000+", label: "Clientes Atendidos" },
-    { number: "20+", label: "Seguradoras Parceiras" },
-    { number: "98%", label: "Satisfação dos Clientes" }
+    { number: "20+", label: "Anos de Experiência" },
+    { number: "8.000+", label: "Clientes Atendidos" },
+    { number: "25+", label: "Seguradoras Parceiras" },
+    { number: "99%", label: "Satisfação dos Clientes" }
   ]
 };
 
