@@ -43,7 +43,7 @@ const ContactSection = () => {
 
   const openWhatsApp = () => {
     const message = encodeURIComponent("Olá! Gostaria de solicitar uma cotação de seguro.");
-    window.open(`https://wa.me/5513987654321?text=${message}`, '_blank');
+    window.open(`https://wa.me/5513998765432?text=${message}`, '_blank');
   };
 
   return (
